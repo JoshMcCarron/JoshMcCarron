@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning about **Compilers & Interpreters,** as well as **E-commerce development.**
 
-- 📫 How to reach me **joshandrewmccarron@gmail.com**
+- 📫 How to reach me **joshandrewmccarron@gmail.com**.
 
 - ⚡ Fun fact I was ranked as a top 20 Apex Legends player in Canada.
 
