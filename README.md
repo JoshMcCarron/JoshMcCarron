@@ -5,9 +5,9 @@
   
 - 🌱 Exploring **Compilers & Interpreters,** as well as **E-commerce development.**
 
-- 📫 How to reach me **joshandrewmccarron@gmail.com**.
+- 📫 How to reach me: **joshandrewmccarron@gmail.com**.
 
-- ⚡ Fun fact I was ranked as a top 20 Apex Legends player in Canada.
+- ⚡ Fun fact: I was ranked as a top 20 Apex Legends player in Canada.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
