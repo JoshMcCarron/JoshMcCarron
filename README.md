@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
 <h3 align="center">A fourth year Honours student at Lassonde school of engineering, York University.</h3>
 
-- 🌱 I’m currently learning **about Compilers & Interpreters, as well as E-commerce development**
+- 🌱 I’m currently learning about **Compilers & Interpreters,** as well as **E-commerce development.**
 
 - 📫 How to reach me **joshandrewmccarron@gmail.com**
 
-- ⚡ Fun fact **I was ranked as a top 20 Apex Legends player in Canada**
+- ⚡ Fun fact I was ranked as a top 20 Apex Legends player in Canada.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
