@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
 <h3 align="center">A fourth year Honours student at Lassonde school of engineering, York University.</h3>
 
-- 🔭 I’m currently working on a project that predicts the quality of sunsets using historical weather data.
+- 🔭 Currently working on a project that predicts the quality of sunsets using historical weather data.
   
-- 🌱 I’m currently learning about **Compilers & Interpreters,** as well as **E-commerce development.**
+- 🌱 Exploring **Compilers & Interpreters,** as well as **E-commerce development.**
 
 - 📫 How to reach me **joshandrewmccarron@gmail.com**.
 
