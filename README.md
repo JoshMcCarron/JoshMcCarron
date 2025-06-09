@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
-<h3 align="center">A fourth year Honours student at Lassonde school of engineering, York University.</h3>
+<h3 align="center">Honours student at Lassonde school of engineering, York University.</h3>
 
 - 🔭 Currently working on a project that explores the ethical/legal implications of AI through surveillance and behavioral data analysis.
   
