@@ -1,11 +1,20 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
-<h3 align="center">Honours student at Lassonde school of engineering, York University.</h3>
+<h3 align="center">
+Computer Science graduate from York University (Lassonde School of Engineering).</h3>
 
-- 🔭 Currently working on a project that explores the ethical/legal implications of AI through surveillance and behavioral data analysis.
+- 🔭 Currently completing a Machine Learning externship focused on document intelligence systems.
   
-- 🌱 Exploring Compilers & Interpreters, as well as applications of AI such as computer vision.
+- 🔐 Also developing systems & security fundamentals:
+  - Threat modeling (STRIDE)
+  - Secure IoT pipelines (MQTT, TLS, device certificates)
+  - Attack simulation (replay attacks) and defense benchmarking
+  - Security dashboards and technical reporting
+ 
+- 💻 Background in full-stack systems, compilers, and distributed data processing.
 
-- 📫 How to reach me: **joshandrewmccarron@gmail.com**.
+- 🚀 Interested in applied ML, LLM infrastructure, and building reliable automation at scale.
+
+- 📫 **joshandrewmccarron@gmail.com**.
 
 - ⚡ Fun fact: I was ranked as a top 20 Apex Legends player in Canada.
 
