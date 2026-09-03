@@ -2,7 +2,7 @@
 <h3 align="center">
 Computer Science graduate from York University (Lassonde School of Engineering), pursuing Java backend development.</h3>
 
-- 🔨 Currently completing an SQL & Database Architecture Externship with **Breaking Games** — taking six raw CSV exports, designing a relational schema to connect customer journeys end-to-end, writing SQL to rank products and marketing channels by revenue, filtering bot traffic from cart-abandonment analysis, and shipping a live HTML dashboard with a data-backed recommendation for the business.
+- 🔨 Currently completing an SQL & Database Architecture Externship with **Breaking Games** — taking raw CSV exports, designing a relational schema to connect customer journeys end-to-end, writing SQL to rank products and marketing channels by revenue, filtering bot traffic from cart-abandonment analysis, and shipping a live HTML dashboard with a data-backed recommendation for the business.
 
 - ☕ Backend stack: **Java, Spring Boot, Hibernate/JPA, REST, MySQL, AWS (EC2, RDS)**.
 
